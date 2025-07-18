@@ -1,4 +1,4 @@
-# Proyecti Final Ecommerce 
+# Proyecto Final Ecommerce 
 
 API REST para gestión de productos con autenticación JWT y almacenamiento en Firestore.
 
@@ -11,8 +11,8 @@ API REST para gestión de productos con autenticación JWT y almacenamiento en F
 ## Instalación
 
 ```bash
-git clone https://github.com/tuusuario/ecommerce-api.git
-cd ecommerce-api
+git clone https://github.com/Wilenys/Proyectofinal-WilenysRojas-ecommerce.git
+cd Proyectofinal-WilenysRojas-ecommerce
 npm install
 ```
 
